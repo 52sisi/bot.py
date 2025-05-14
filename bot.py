@@ -4,8 +4,8 @@ import asyncio
 import threading
 
 # Настройки бота
-BOT_TOKEN = "ВАШ_ТОКЕН"
-ADMIN_CHAT_ID = "ВАШ_CHAT_ID"
+BOT_TOKEN = "7655690664:AAEVjJSCMMpuV6WxSsp1cUb2HeX_t7brm4I"
+ADMIN_CHAT_ID = "-1002532410390"
 
 # Инициализация Flask
 app = Flask(__name__)
